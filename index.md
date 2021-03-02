@@ -29,8 +29,8 @@ Other research interests include adaptation of NLP models for new domains and Af
 [Twitter] <br />
 
 
-[Email]: mailto:geopar@central.ntua.gr
-[Sholar]: https://scholar.google.gr/citations?user=arK20HUAAAAJ&hl=en
+[Scholar]: https://scholar.google.gr/citations?user=arK20HUAAAAJ&hl=en
 [Github]: https://github.com/georgepar/
 [Linkedin]: https://gr.linkedin.com/in/geopar
 [Twitter]: https://twitter.com/georgepar_91
+[Email]: mailto:geopar@central.ntua.gr
