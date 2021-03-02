@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo.png" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/photo.png" caption="" max_width="150px" align="right" %}
 
 Hi, I'm Giorgos.
 I am a PhD student in the [National Technical University of Athens](https://www.ece.ntua.gr/en)
