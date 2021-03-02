@@ -1,5 +1,5 @@
-title: Geeky corner
-description: Much-Worse Jekyll theme for academic page and blog
+title: My personal webpage
+description: Giorgos Paraskevopoulos personal webpage
 sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
 
 permalink: blog/:year/:month/:day/:title
@@ -9,7 +9,7 @@ url: "http://georgepar.github.io/"     # the base hostname & protocol for your s
 # baseurl: "/"                   # the subpath of your site, e.g. /blog
 
 author:
-    name: George Paraskevopoulos
+    name: Giorgos Paraskevopoulos
 #    facebook:
 #    scholar:
 
