@@ -109,7 +109,7 @@ pubs:
       year: "2016"
 ---
 
-## Publications
+<!-- ## Publications -->
 
 {% assign thumbnail="left" %}
 
