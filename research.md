@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 pubs:
     - title: "MMLatch: Bottom-up Top-down Fusion for Multimodal Sentiment Analysis"
-      author: "Efthymis Georgiou, Georgios Paraskevopoulos, Alexandros Potamianos"
+      author: "Georgios Paraskevopoulos, Efthymis Georgiou, Alexandros Potamianos"
       journal: "ICASSP (Accepted - to appear)"
       year:    "2022"
 
