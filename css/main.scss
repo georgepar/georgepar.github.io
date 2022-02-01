@@ -20,8 +20,8 @@ $orange:     #ca6c18;
 $red:        #b6321c;
 
 $light-background:        $grey-vlight;
-$background:   darken($background, 5%);
-$dark-background:   darken($background, 10%);
+$background:   darken($light-background, 5%);
+$dark-background:   darken($light-background, 10%);
 $text-color:        $grey-vdark;
 $text-light-color:  $grey;
 $url-color:         $red;
