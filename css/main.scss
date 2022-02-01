@@ -3,33 +3,33 @@
 ---
 @charset "utf-8";
 
-$base-font-family: 'EB Garamond', serif;
+$base-font-family: 'Fira Code', mono;
 $base-font-size:   x-large;
 $small-font-size:  0.875em;
 $vsmall-font-size: 0.66em;
 $base-line-height: 1.5;
 $spacing-unit:     1.5em;
 
-$grey-vlight:#eee;
-$grey-light: #ccc;
-$grey:       #888;
-$grey-dark:  #444;
-$grey-vdark: #222;
-$blue:       #0091ed;
-$orange:     #ca6c18;
-$red:        #b6321c;
+// $grey-vlight:#eee;
+// $grey-light: #ccc;
+// $grey:       #888;
+// $grey-dark:  #444;
+// $grey-vdark: #222;
+// $blue:       #0091ed;
+// $orange:     #ca6c18;
+// $red:        #b6321c;
 
-$light-background:        $grey-vlight;
-$background:   darken($light-background, 5%);
-$dark-background:   darken($light-background, 10%);
-$text-color:        $grey-vdark;
-$text-light-color:  $grey;
-$url-color:         $red;
-$url-hover-color:   $orange;
-$header-text-color: $text-light-color;
-$header-hover-color:$text-color;
-$header-hover-url:  $url-color;
-$line-color:        $grey-light;
+$light-background:          rgba(40, 42, 54, 1) !important;
+$background:                rgba(40, 42, 54, 1) !important;
+$dark-background:           rgba(40, 42, 54, 1) !important;
+$text-color:                rgba(248, 248, 242, 1) !important;
+$text-light-color:          rgba(248, 248, 242, 1) !important;
+$url-color:                 rgba(80, 250, 123, 1) !important;
+$url-hover-color:           rgba(241, 250, 140, 1) !important;
+$header-text-color:         rgba(255, 184, 108, 1) !important;
+$header-hover-color:        rgba(255, 184, 108, 1) !important;
+$header-hover-url:          rgba(80, 250, 123, 1) !important;
+$line-color:                rgba(40, 42, 54, 1) !important;
 
 // Width of the content area
 $content-width:    50em;
